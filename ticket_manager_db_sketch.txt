@@ -1,0 +1,21 @@
+
+# Steg 1
+Ticket (id, status_id, title, issuer, created, reacted, resolved, sla_id, flow_id)
+Issuer (id, name, email, contactnumber)
+Post (id, ticket_id, content, created, hidden)
+Status (id, statusname)
+SLA (id, level, type, reactiontime, resolvetime)
+
+# Steg 2
+Flow(id, name)
+TicketFlow(flow_id, current_status_id, available_status_id)
+
+
+
+
+
+
+
+
+
+
