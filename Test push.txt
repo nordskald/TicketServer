@@ -8,6 +8,4 @@ another test
 
 5th and final test?
 
-HEJSAN
-
-Hej igen
+SSH test push Stefan 16/11/21
